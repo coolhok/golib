@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cjysmat/assert"
+	"github.com/bmizerany/assert"
 )
 
 func TestWaitGroupWithoutTimeout(t *testing.T) {
